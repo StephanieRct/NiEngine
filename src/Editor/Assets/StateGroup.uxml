@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement style="height: auto; width: auto; flex-direction: row;">
+        <ui:VisualElement name="veHasActiveState" style="width: 2px; background-color: rgba(0, 0, 0, 0);" />
+        <ui:VisualElement style="flex-direction: column; width: 100%;">
+            <ui:VisualElement name="States" style="height: auto;" />
+            <ui:VisualElement style="flex-direction: row;">
+                <ui:Button text="Add State" display-tooltip-when-elided="true" name="btAddState" style="width: 64px; height: 18px; max-height: 18px; min-height: 18px; max-width: 64px; min-width: 64px;" />
+            </ui:VisualElement>
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="veHasActiveState" style="height: 2px; background-color: rgba(0, 0, 0, 0); max-height: 2px;" />
+</ui:UXML>

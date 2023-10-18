@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-direction: row; flex-grow: 1; flex-shrink: 0;">
+        <ui:TextField picking-mode="Ignore" value="filler text" text="00" name="tfIndex" style="min-width: 24px; height: 18px; width: 24px;" />
+        <ui:VisualElement style="flex-grow: 1; background-color: rgba(0, 0, 0, 0); flex-direction: row-reverse; flex-shrink: 0;">
+            <ui:Button text="X" display-tooltip-when-elided="true" name="btDelete" style="width: 16px; height: 18px; max-height: 18px; min-height: 18px; max-width: 16px; min-width: 16px; background-color: rgb(180, 0, 0);" />
+            <ui:VisualElement name="veContent" style="flex-grow: 1;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

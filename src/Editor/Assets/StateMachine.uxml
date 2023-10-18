@@ -1,0 +1,6 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" editor-extension-mode="False">
+    <ui:VisualElement name="Groups" style="height: auto; width: auto;" />
+    <ui:VisualElement style="flex-direction: row; height: 22px;">
+        <ui:Button text="Add Group" display-tooltip-when-elided="true" name="btAddGroup" style="flex-direction: column; left: auto;" />
+    </ui:VisualElement>
+</ui:UXML>

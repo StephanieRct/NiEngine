@@ -1,0 +1,12 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement name="veFold" style="flex-grow: 1; flex-direction: row; height: auto; display: flex;">
+        <ui:VisualElement name="veColor" style="height: auto; width: 4px; background-color: rgba(0, 0, 0, 0.09); top: auto; align-items: flex-end; bottom: auto; min-height: 0; flex-grow: 0; max-width: 4px; min-width: 4px;" />
+        <ui:VisualElement style="height: 100%; min-height: auto; min-width: auto; flex-grow: 1;">
+            <ui:VisualElement name="veListContent" style="flex-grow: 1;" />
+            <ui:VisualElement name="VisualElement" style="flex-direction: row; height: 18px;">
+                <ui:Button text="Add" display-tooltip-when-elided="true" name="btAdd" style="height: 18px; max-height: 18px; min-height: 18px; width: auto; max-width: none; min-width: auto;" />
+            </ui:VisualElement>
+            <ui:VisualElement name="veColor" style="flex-grow: 0; height: 4px; min-height: 4px; max-height: 4px; background-color: rgba(0, 0, 0, 0.09);" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+</ui:UXML>

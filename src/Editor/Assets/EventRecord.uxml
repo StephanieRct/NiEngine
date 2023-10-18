@@ -1,0 +1,13 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:Foldout text="Conditions" name="foConditions" value="true" />
+    <ui:ListView focusable="true" name="lvConditions" />
+    <ui:Foldout text="On Begin" name="foOnBegin" value="true" />
+    <ui:ListView focusable="true" name="lvOnBegin" />
+    <ui:Foldout text="On Update" name="foOnUpdate" value="true" />
+    <ui:ListView focusable="true" name="lvOnUpdate" />
+    <ui:Foldout text="On End" name="foOnEnd" value="true" />
+    <ui:ListView focusable="true" name="lvOnEnd" />
+    <ui:Foldout text="Action Update" name="foActionUpdate" value="true" />
+    <ui:ListView focusable="true" name="lvActionUpdate" />
+    <ui:VisualElement />
+</ui:UXML>

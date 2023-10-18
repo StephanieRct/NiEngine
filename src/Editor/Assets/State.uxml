@@ -1,0 +1,9 @@
+<ui:UXML xmlns:ui="UnityEngine.UIElements" xmlns:uie="UnityEditor.UIElements" xsi="http://www.w3.org/2001/XMLSchema-instance" engine="UnityEngine.UIElements" editor="UnityEditor.UIElements" noNamespaceSchemaLocation="../../../../../UIElementsSchema/UIElements.xsd" editor-extension-mode="False">
+    <ui:VisualElement style="flex-direction: row;">
+        <ui:VisualElement name="veIsActive" style="width: 4px; background-color: rgb(0, 255, 0);" />
+        <ui:VisualElement style="flex-grow: 1;">
+            <ui:VisualElement name="veStateContent" style="flex-grow: 0;" />
+        </ui:VisualElement>
+    </ui:VisualElement>
+    <ui:VisualElement name="veIsActive" style="background-color: rgb(0, 255, 0); height: 4px;" />
+</ui:UXML>
