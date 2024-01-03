@@ -1,5 +1,6 @@
-### Documentation
-https://docs.google.com/document/d/1Ou472GXXLw4E3su2DuEn2sCI7qCeviTPzLBf1p7xBLk/edit?usp=sharing
+### Links
+Documentation: https://docs.google.com/document/d/1Ou472GXXLw4E3su2DuEn2sCI7qCeviTPzLBf1p7xBLk/edit?usp=sharing
+NiEngine Demo: https://github.com/StephanieRct/NiEngineDemo.git
 
 ### How to add NiEngine to your Unity Project
 
