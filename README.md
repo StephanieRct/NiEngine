@@ -1,4 +1,7 @@
-=How to add NiEngine to your Unity Project=
+### Documentation
+https://docs.google.com/document/d/1Ou472GXXLw4E3su2DuEn2sCI7qCeviTPzLBf1p7xBLk/edit?usp=sharing
+
+### How to add NiEngine to your Unity Project
 
 In the Unity Editor:
 
