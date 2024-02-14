@@ -2,6 +2,10 @@ NiEngine is an event-based system of actions and reactions between game objects.
 
 NiEngine has its own save system that can save and load any components or custom data.
 
+Example of a State Machine:
+![image](https://github.com/StephanieRct/NiEngine/assets/5490610/0a8023f7-a95e-4f57-b9eb-4ff78d93c5b8)
+
+The grear icon green/white status indicate the current state. It update at real-time and may be toggle at runtime to trigger state changes.
 
 ### Links
   * Documentation: https://docs.google.com/document/d/1Ou472GXXLw4E3su2DuEn2sCI7qCeviTPzLBf1p7xBLk/edit?usp=sharing
